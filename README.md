@@ -38,9 +38,12 @@ Building tools.
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [AI-Launcher-Pro](https://github.com/Adriyache32/AI-Launcher-Pro) | Interactive menu with 19+ AIs for programming | Python |
-| [MCCTL](https://github.com/Adriyache32/MCCTL) | Minecraft server monitoring and admin panel | Python |
-| [MojoLauncher](https://github.com/Adriyache32/MojoLauncher) | Minecraft Java Edition launcher for Android | Java |
+| [AI-Launcher-Pro](https://github.com/Adriyache32/AI-Launcher-Pro) | 🤖 Interactive menu with 19+ AIs for programming | Python |
+| [MCCTL](https://github.com/Adriyache32/MCCTL) | 📊 Minecraft server monitoring and admin panel | Python |
+| [MojoLauncher](https://github.com/Adriyache32/MojoLauncher) | 🚀 Minecraft Java Edition launcher for Android | Java |
+| [moto-launcher-port](https://github.com/Adriyache32/moto-launcher-port) | 📱 MojoLauncher port for Android | - |
+| [Adriyache32.github.io](https://github.com/Adriyache32/Adriyache32.github.io) | 🌐 Minecraft server landing page | JavaScript |
+| [dondefelipe](https://github.com/Adriyache32/dondefelipe) | 🎓 Educational support site | HTML |
 
 ---
 
