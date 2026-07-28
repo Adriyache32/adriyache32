@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:6d28d9&height=220&section=header&text=Adriyache32&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Open%20Source%20Developer%20|%20Python%20|%20Java%20|%20JavaScript&descSize=18&descAlignY=55&animation=fadeIn&duration=1000" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/-Adriyache32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adriyache32)
@@ -50,6 +49,7 @@
 
 | 🔥 Project | 📝 Description | 🛠️ Language |
 |:----------:|:---------------|:------------:|
+| [**rootkit-pro**](https://github.com/Adriyache32/rootkit-pro) | 📱 Universal Phone Root/Unlock Tool | ![Shell](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnubash&logoColor=white) |
 | [**AI-Launcher-Pro**](https://github.com/Adriyache32/AI-Launcher-Pro) | 🤖 Interactive menu with 19+ AIs for programming | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**MCCTL**](https://github.com/Adriyache32/MCCTL) | 📊 Minecraft server monitoring & admin panel | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**MojoLauncher**](https://github.com/Adriyache32/MojoLauncher) | 🚀 Minecraft Java Edition launcher for Android | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
