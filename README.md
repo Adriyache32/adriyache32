@@ -113,12 +113,6 @@ If you find my projects useful, consider buying me a coffee!
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:6d28d9&height=120&section=footer" width="100%"/>
-
-</div>
-
 ---
 
 ## 🚀 Proyectos destacados
@@ -136,3 +130,10 @@ If you find my projects useful, consider buying me a coffee!
   <a href="https://github.com/Adriyache32/clawd-desktop/releases"><img alt="Releases" src="https://img.shields.io/badge/Releases-v1.0.0-d97757?style=for-the-badge"></a>
   <a href="https://adriyache32.github.io/"><img alt="Web" src="https://img.shields.io/badge/Sitio-Web-6d28d9?style=for-the-badge"></a>
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:6d28d9&height=120&section=footer" width="100%"/>
+
+</div>
+
