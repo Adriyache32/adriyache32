@@ -118,3 +118,21 @@ If you find my projects useful, consider buying me a coffee!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:6d28d9&height=120&section=footer" width="100%"/>
 
 </div>
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Qué es |
+|---|---|
+| [**clawd-desktop**](https://github.com/Adriyache32/clawd-desktop) | Mascota de escritorio de Claude Code + suite con modelos locales (offline) y voz. [Release v1.0.0](https://github.com/Adriyache32/clawd-desktop/releases/tag/v1.0.0) |
+| [**AI-Launcher-Pro**](https://github.com/Adriyache32/AI-Launcher-Pro) | Menú interactivo con 19+ IAs para programar. Multiplataforma. |
+| [**MCCTL**](https://github.com/Adriyache32/MCCTL) | Panel de monitoreo y administración para servidores Minecraft. |
+| [**rootkit-pro**](https://github.com/Adriyache32/rootkit-pro) | Herramienta universal de root/desbloqueo de teléfonos (ADB/Fastboot). |
+| [**Cartas-Tacticas**](https://github.com/Adriyache32/Cartas-Tacticas) | Juego de cartas tácticas para navegador (TypeScript). |
+| [**Adriyache32.github.io**](https://github.com/Adriyache32/Adriyache32.github.io) | Landing page del servidor de Minecraft *Nervalia*. |
+
+<p align="center">
+  <a href="https://github.com/Adriyache32/clawd-desktop/releases"><img alt="Releases" src="https://img.shields.io/badge/Releases-v1.0.0-d97757?style=for-the-badge"></a>
+  <a href="https://adriyache32.github.io/"><img alt="Web" src="https://img.shields.io/badge/Sitio-Web-6d28d9?style=for-the-badge"></a>
+</p>
