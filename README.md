@@ -94,6 +94,6 @@
 ---
 
 <div align="center">
-  <sub>Actualizado automáticamente • Último commit: 2026-10-27 • 
+  <sub>Actualizado automáticamente • Último commit: d5d2574 feat: profile overhaul x1000 - new README + auto-update workflow + banner
   <a href="https://github.com/Adriyache32/Adriyache32/blob/main/.github/workflows/update-readme.yml">Ver workflow</a></sub>
 </div>
