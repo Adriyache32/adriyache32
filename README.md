@@ -1,61 +1,99 @@
+<!-- 
+  GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO
+  Actualizado por .github/workflows/update-readme.yml cada 6h
+  Última actualización: 2026-10-27
+-->
+
 <div align="center">
+  <img src="https://github.com/Adriyache32/Adriyache32/raw/main/assets/banner.svg" width="100%" alt="Adriyache32 - Open Source Developer"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:6d28d9&height=200&section=header&text=Adriyache32&fontSize=74&fontColor=ffffff&fontAlignY=35&desc=Open%20Source%20Developer%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20JavaScript&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
-**Construyo herramientas de escritorio, automatización y proyectos para la comunidad.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Adriyache32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adriyache32)
-[![Email](https://img.shields.io/badge/Email-diaz.adriel.n@protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:diaz.adriel.n@protonmail.com)
-[![Web](https://img.shields.io/badge/Sitio-adriyache32.github.io-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adriyache32.github.io/)
-
+<div align="center">
+  
+  **🛠️ Construyo herramientas que ahorran tiempo: launchers, paneles de servidor, mascotas IA de escritorio, apps educativas.**
+  
+  Python · JavaScript · Java · **Local-first** · Chile 🇨🇱
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Adriyache32-181717?style=for-the-badge&logo=github)](https://github.com/Adriyache32)
+  [![Email](https://img.shields.io/badge/Email-diaz.adriel.n@protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail)](mailto:diaz.adriel.n@protonmail.com)
+  [![Web](https://img.shields.io/badge/Sitio-adriyache32.github.io-6d28d9?style=for-the-badge&logo=googlechrome)](https://adriyache32.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adriyache32)
+  
 </div>
 
 ---
 
-## 👋 Sobre mí
+### 📊 Stats en vivo
 
-Desarrollador enfocado en **herramientas prácticas**: apps de escritorio, automatización con IA, gestión de servidores y juegos web. Me gusta que cada proyecto sea **fácil de instalar, liviano y bien documentado**.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adriyache32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriyache32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-- 🔭 Trabajando en **[Clawd Desktop](https://github.com/Adriyache32/clawd-desktop)** — mascota de escritorio con IA local.
-- 🌱 Aprendiendo **TypeScript** y arquitecturas con IA local (Ollama).
-- 💬 Pregúntame sobre **Python, Linux, automatización y Minecraft**.
-- ⚡ Dato: uso modelos locales y priorizo que todo funcione **sin depender de la nube**.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adriyache32&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## 🛠️ Tecnologías
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adriyache32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="Trophies" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+---
 
-## 🚀 Proyectos destacados
+### 📌 Proyectos destacados (auto-sync desde pinned repos)
 
-| Proyecto | Descripción | Tecnología |
-|---|---|---|
-| 🤖 [**Clawd Desktop**](https://github.com/Adriyache32/clawd-desktop) | Mascota de escritorio de Claude Code + suite con modelos locales (offline), voz e instalador. [Release v1.0.0](https://github.com/Adriyache32/clawd-desktop/releases/tag/v1.0.0) | Python · GTK |
-| ⚡ [**AI-Launcher-Pro**](https://github.com/Adriyache32/AI-Launcher-Pro) | Menú interactivo con 19+ IAs para programar, multiplataforma (7 versiones). | Python |
-| 📊 [**MCCTL**](https://github.com/Adriyache32/MCCTL) | Panel de monitoreo y administración para servidores Minecraft. | Python |
-| 📱 [**rootkit-pro**](https://github.com/Adriyache32/rootkit-pro) | Herramienta universal de root/desbloqueo de teléfonos (ADB/Fastboot). | Python |
-| 🃏 [**Cartas-Tacticas**](https://github.com/Adriyache32/Cartas-Tacticas) | Juego de cartas tácticas para navegador. | TypeScript |
-| 🌐 [**Adriyache32.github.io**](https://github.com/Adriyache32/Adriyache32.github.io) | Landing page del servidor de Minecraft *Nervalia*. | HTML |
+| Proyecto | Descripción | Stack | Impacto |
+|----------|-------------|-------|---------|
+| 📌 **[dondefelipe](https://github.com/Adriyache32/dondefelipe)** | Sitio educativo gamificado: economía (Hipopesos), mercado, ruleta, bolsa, panel docente | HTML/JS/Firebase | 500+ estudiantes · Auditoría seguridad 2026 |
+| 📌 **[claud-desktop](https://github.com/Adriyache32/claud-desktop)** | Mascota de escritorio con IA local (Ollama), voz, 19+ modelos, plugins | Python · GTK · Ollama | v1.0.0 · Offline-first |
+| 📌 **[AI-Launcher-Pro](https://github.com/Adriyache32/AI-Launcher-Pro)** | Menú interactivo 19+ IAs para programar, 7 versiones multiplataforma | Python · Tkinter/CustomTkinter | 7 builds · Auto-updater |
+| 📌 **[MCCTL](https://github.com/Adriyache32/MCCTL)** | Panel monitoreo/admin servidores Minecraft (RCON + GUI + Terminal) | Python · Textual/Asyncio | 500+ descargas · Docker |
+| 📌 **[MojoLauncher](https://github.com/Adriyache32/MojoLauncher)** | Launcher Minecraft Java para Android (fork PojavLauncher), 2GB RAM min | Java · Kotlin · Gradle | Android CI · Releases |
+| 📌 **[rootkit-pro](https://github.com/Adriyache32/rootkit-pro)** | Universal Phone Root/Unlock (ADB/Fastboot) Linux/Windows · UI GitHub Dark | Python · HTML/JS | MIT · Análisis riesgo |
 
-## 📊 Estadísticas
+---
+
+### 🧰 Stack tecnológico (por dominio)
+
+| Dominio | Tecnologías |
+|---------|-------------|
+| **🐍 Backend / CLI / Automatización** | Python 3.11+, Asyncio, Textual, Click, Pydantic, SQLite/PostgreSQL, Docker |
+| **🌐 Frontend / Web / Extensiones** | Vanilla JS (ESM), HTML5/CSS3, Firebase (Auth/Firestore/Functions), Vite |
+| **☕ Android / JVM** | Java 21, Kotlin, Gradle, Android SDK, LibGDX |
+| **🤖 IA / ML / Local-First** | Ollama, llama.cpp, Whisper, Piper TTS, LangChain, ChromaDB, RAG |
+| **🖥️ Desktop / Sistema** | GTK4/libadwaita, PyGObject, AppImage/Flatpak, systemd, Bash/Zsh |
+| **☁️ Infra / DevOps** | GitHub Actions, GitHub Pages, Dependabot, Renovate, Trivy, Cosign |
+
+---
+
+### 📈 Actividad reciente
+
+<!-- ACTIVITY_GRAPH_START -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adriyache32&theme=tokyonight&hide_border=true&area=true&line=6d28d9&point=ffffff&bg_color=1a1b26)
+<!-- ACTIVITY_GRAPH_END -->
+
+---
+
+### 🏆 Logros destacados
+
+- 🥇 **Primer proyecto educativo en producción** con 500+ usuarios diarios (dondefelipe)
+- 🔒 **Auditoría de seguridad completa** documentada (reglas Firestore atómicas, ops counter)
+- 🤖 **IA 100% local** en claud-desktop — cero llamadas a API externas
+- 📱 **Minecraft Java en Android** optimizado para 2GB RAM (MojoLauncher)
+- 🛡️ **Herramienta de seguridad móvil** con análisis de riesgo (rootkit-pro)
+
+---
+
+### 🤝 Colaboración
+
+- **Issues/PRs bienvenidos** en todos los repos principales
+- **Security**: Ver [SECURITY.md](https://github.com/Adriyache32/.github/blob/main/SECURITY.md) en cada repo
+- **Discusiones**: GitHub Discussions activado en `dondefelipe`, `claud-desktop`, `AI-Launcher-Pro`
+- **Código de conducta**: [Contributor Covenant](https://www.contributor-covenant.org/) en todos los repos
+
+---
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adriyache32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriyache32&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-**⭐ Si algún proyecto te sirve, una estrella ayuda mucho.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:6d28d9&height=120&section=footer" width="100%"/>
-
+  <sub>Actualizado automáticamente • Último commit: 2026-10-27 • 
+  <a href="https://github.com/Adriyache32/Adriyache32/blob/main/.github/workflows/update-readme.yml">Ver workflow</a></sub>
 </div>

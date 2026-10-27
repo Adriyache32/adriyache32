@@ -1,0 +1,13 @@
+<svg width="1280" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <text x="640" y="140" font-family="system-ui, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">Adriyache32</text>
+  <text x="640" y="200" font-family="system-ui, sans-serif" font-size="24" fill="#c8f55a" text-anchor="middle">🛠️ Launchers · Paneles · IA Local · Apps Educativas</text>
+  <text x="640" y="240" font-family="system-ui, sans-serif" font-size="18" fill="#a9a4c8" text-anchor="middle">Python · JavaScript · Java · Local-first · Chile 🇨🇱</text>
+</svg>
