@@ -1,7 +1,7 @@
 <!-- 
   GENERADO AUTOMÁTICAMENTE — NO EDITAR A MANO
   Actualizado por .github/workflows/update-readme.yml cada 6h
-  Última actualización: 2026-10-27
+  Última actualización: 2026-10-28
 -->
 
 <div align="center">
@@ -94,6 +94,6 @@
 ---
 
 <div align="center">
-  <sub>Actualizado automáticamente • Último commit: d5d2574 feat: profile overhaul x1000 - new README + auto-update workflow + banner
+  <sub>Actualizado automáticamente • Último commit: 7607db5 chore: auto-update profile README [skip ci]
   <a href="https://github.com/Adriyache32/Adriyache32/blob/main/.github/workflows/update-readme.yml">Ver workflow</a></sub>
 </div>
