@@ -94,6 +94,6 @@
 ---
 
 <div align="center">
-  <sub>Actualizado automáticamente • Último commit: eb0998d chore: auto-update profile README [skip ci]
+  <sub>Actualizado automáticamente • Último commit: 8ef5e7e chore: auto-update profile README [skip ci]
   <a href="https://github.com/Adriyache32/Adriyache32/blob/main/.github/workflows/update-readme.yml">Ver workflow</a></sub>
 </div>
